@@ -374,7 +374,7 @@ form {
     background-color: #111111;
     padding: 50px;
 }
-.copyright p{
+.copyright span{
     font-size: 16px;
 }
 /* Breakpoints */
