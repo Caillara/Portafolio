@@ -397,10 +397,10 @@ form {
     }
 }
 @media(max-width: 768px) {
-    .inicio-content h1 {
+    .inicio-content span {
         font-size: 35px;
     }
-    .inicio-content h3 {
+    .inicio-content h1 {
         font-size: 23px;
     }
     #menu-icon {
